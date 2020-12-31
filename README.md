@@ -8,9 +8,9 @@
  **ĐỀ TÀI**
  **Dự đoán giá laptop trên trang thương mại điện tử Chợ tốt**
 
->Các thành viên:
->1712091 - Nguyễn Huỳnh Xuân Mai
->1612793 - Lê Công Tuyền
+Các thành viên:
+ - 1712091 - Nguyễn Huỳnh Xuân Mai
+ - 1612793 - Lê Công Tuyền
 
 
 1. Câu hỏi được đặt ra:
